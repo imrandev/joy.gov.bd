@@ -17,3 +17,6 @@ N FNF No Manage: User can add and remove FnF number one more max three person to
 Mal Normal Complain: User can text complain with attachments image, audio to National Helpline.
 • Pin Set: User can set own security pin code to modify fnf and view complain history.
 Mer Emergency Complain: In emergency user will press emergency icon or press power button 5 times then App will run in system background and start voice recording take camera snap (with out flash) silently to store evidence.
+
+# User Account Deletion
+If any user want to delete their account, please call 109. If you give them your proper identification, 109 will help you to delete your account's data.
