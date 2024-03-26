@@ -1,6 +1,6 @@
-<img sre="https://play-lh.googleusercontent.com/1Tk_F-wHHA3EFO8Zdtt3FnxPGTYIxh21RyEc8XFYVsr1b5VWNM4GvenMaf7ew0neolDm=w240-h480-rw"></img>
+![](https://play-lh.googleusercontent.com/1Tk_F-wHHA3EFO8Zdtt3FnxPGTYIxh21RyEc8XFYVsr1b5VWNM4GvenMaf7ew0neolDm=w240-h480-rw)
 
-# joy.gov.bd
+# JOY
 
 # Objective
 Women and Children are vulnerable to different kinds of violence. Specially, female students, working women, and women entrepreneurs who use to go outside for study, work and business. Many times they fall victim to different kinds of sexual harassment or physical abuse. Usually we know the information after the incidence occurred. It is difficult for the victims to inform someone about the incidence at that moment. If the information of the incidence with place of occurrence be informed the parents, friends and law enforcing agencies, valuable life could be saved. Another problem is that it is sometimes very difficult and inhuman to prove the guilt and correctly identify wrong doers for the lack of evidence. If evidence could be collected digitally, many of these problems could be resolved.
@@ -21,4 +21,4 @@ Mal Normal Complain: User can text complain with attachments image, audio to Nat
 Mer Emergency Complain: In emergency user will press emergency icon or press power button 5 times then App will run in system background and start voice recording take camera snap (with out flash) silently to store evidence.
 
 # User Account Deletion
-If any user want to delete their account, please call 109. If you give them your proper identification, 109 will help you to delete your account's data.
+If any user want's to delete own account, please call 109. If you give them your proper identification, 109 will help you to delete your account's data.
