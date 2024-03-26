@@ -20,5 +20,8 @@ Mal Normal Complain: User can text complain with attachments image, audio to Nat
 • Pin Set: User can set own security pin code to modify fnf and view complain history.
 Mer Emergency Complain: In emergency user will press emergency icon or press power button 5 times then App will run in system background and start voice recording take camera snap (with out flash) silently to store evidence.
 
+# Data Privacy
+User's data's are securly stored. We collect user's data for their own safety. The app will collect picture and audio when any incident happen. App's goal is to keep track the data when user's in danger. This is a government project and these sensitive data will collect by the only government and law enforcement department.
+
 # User Account Deletion
 If any user want's to delete own account, please call 109. If you give them your proper identification, 109 will help you to delete your account's data.
